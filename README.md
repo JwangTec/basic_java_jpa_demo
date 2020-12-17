@@ -1,6 +1,3 @@
-# basic_java_jpa_demo
-
-
 # 一文搞懂如何在 Spring Boot 中正确使用 JPA
 
 JPA 这部分内容上手很容易，但是涉及到的东西还是挺多的，网上大部分关于 JPA 的资料都不是特别齐全，大部分用的版本也是比较落后的。我只是把自己觉得比较重要的知识点总结在了下面。我自己也是参考着官方文档写的，[官方文档](https://docs.spring.io/spring-data/jpa/docs/current/reference/html/#reference)非常详细了，非常推荐阅读一下。这篇文章可以帮助对 JPA 不了解或者不太熟悉的人来在实际项目中正确使用 JPA。
